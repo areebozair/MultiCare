@@ -9,7 +9,7 @@ The healthcare industry, in particular, has garnered significant attention from 
 MultiCare is a Web application that allows user to check their chance of having the following disease especally for the elderly peoples.
 
 <ul>
-  <li>Diabete Disease</li>
+  <li>Diabete Disease(Working)</li>
   <li>Stroke Disease</li>
   <li>Liver Disease</li>
   <li>Pneumonia Disease</li>
