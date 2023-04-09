@@ -30,4 +30,18 @@ MultiCare is a Web application that allows user to check their chance of having 
   <li>flask run</li>
 </ul>
 
+# Look and Feel
 
+![slide2](https://github.com/areebozair/MultiCare/blob/main/screenshots/1.jpg)
+
+Each Disease will have it's own page with the required parameters that user must provide.
+
+<h2> Disease page : </h2>
+
+![sl3de2](https://github.com/areebozair/MultiCare/blob/main/screenshots/2.jpg)
+
+<h2> Prediction page : </h2>
+
+![slide4](https://github.com/areebozair/MultiCare/blob/main/screenshots/4.jpg)
+
+## And much more
