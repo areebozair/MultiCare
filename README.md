@@ -1,6 +1,6 @@
 # MultiCare
 
-##About The Project
+## About The Project
 
 Artificial intelligence is a rapidly evolving field that continues to make significant strides with new advancements emerging regularly. One of the many benefits of AI is its ability to automate and streamline human activities across various industries, including agriculture, finance, healthcare, and travel.
 
