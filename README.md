@@ -16,3 +16,18 @@ MultiCare is a Web application that allows user to check their chance of having 
   <li>Kidney Disease</li>
   <li>Heart Disease</li>
 </ul>
+
+## Getting Started
+ 
+-Create a conda environment and install the required libraries
+<ul>
+  <li>conda create -n healthcure python=3.9</li>
+  <li>conda activate healthcure</li> 
+  <li>pip install opencv-python numpy tensorflow scikit-learn imutils flask xgboost</li>
+</ul>
+-Now, simply run the following command in the terminal.
+<ul>
+  <li>flask run</li>
+</ul>
+
+
